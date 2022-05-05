@@ -1,0 +1,16 @@
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.exe
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.deps.json
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.runtimeconfig.json
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.runtimeconfig.dev.json
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.dll
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.pdb
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.csproj.AssemblyReference.cache
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.AssemblyInfoInputs.cache
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.AssemblyInfo.cs
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.csproj.CoreCompileInputs.cache
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.dll
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\refint\lab_2_zadanie.dll
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.pdb
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.genruntimeconfig.cache
+D:\Patryk c#\lab_2_zadanie\lab_2_zadanie\obj\Debug\net5.0\ref\lab_2_zadanie.dll
