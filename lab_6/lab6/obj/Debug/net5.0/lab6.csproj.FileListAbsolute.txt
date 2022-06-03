@@ -1,0 +1,16 @@
+D:\Patryk_cs\lab_6\lab6\bin\Debug\net5.0\lab6.exe
+D:\Patryk_cs\lab_6\lab6\bin\Debug\net5.0\lab6.deps.json
+D:\Patryk_cs\lab_6\lab6\bin\Debug\net5.0\lab6.runtimeconfig.json
+D:\Patryk_cs\lab_6\lab6\bin\Debug\net5.0\lab6.runtimeconfig.dev.json
+D:\Patryk_cs\lab_6\lab6\bin\Debug\net5.0\lab6.dll
+D:\Patryk_cs\lab_6\lab6\bin\Debug\net5.0\lab6.pdb
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.csproj.AssemblyReference.cache
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.AssemblyInfoInputs.cache
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.AssemblyInfo.cs
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.csproj.CoreCompileInputs.cache
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.dll
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\refint\lab6.dll
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.pdb
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\lab6.genruntimeconfig.cache
+D:\Patryk_cs\lab_6\lab6\obj\Debug\net5.0\ref\lab6.dll
