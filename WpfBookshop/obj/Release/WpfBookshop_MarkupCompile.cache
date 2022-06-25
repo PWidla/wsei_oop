@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\Patryk_cs\wsei_oop\PROJEKT\WpfBookshop\obj\Debug\
+D:\Patryk_cs\wsei_oop\PROJEKT\WpfBookshop\obj\Release\
 WpfBookshop
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Patryk_cs\wsei_oop\PROJEKT\WpfBookshop\App.xaml
 31032854137
 2764493855
