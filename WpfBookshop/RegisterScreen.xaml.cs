@@ -30,5 +30,22 @@ namespace WpfBookshop
             this.Visibility = Visibility.Hidden;
             loginScreen.Show();
         }
+
+        private void btnSubmitRegister_Click(object sender, RoutedEventArgs e)
+        {
+            using (BOOKSHOPEntities context = new BOOKSHOPEntities())
+            {
+                if (context.users.Any(x => x.username == txtUsername.Text))
+                {
+                    MessageBox.Show("This username is already used.");
+                }
+                else
+                {
+                    context.users.Add(new user { username = txtUsername.Text, password = txtPassword.Password, role = "Client" });
+                    MessageBox.Show("You have been successfully registered. Now you can log in.");
+                    context.SaveChanges();
+                }
+            }
+        }
     }
 }

@@ -13,7 +13,7 @@
             <TextBox Name="txtUsername" Background="Bisque" Foreground="Sienna" FontSize="15" Margin="250 0"></TextBox>
             <Label Content="Password" Foreground="Cornsilk" HorizontalAlignment="Center"></Label>
             <PasswordBox Name="txtPassword" Background="Bisque" Foreground="Sienna" FontSize="15" Margin="250 0"></PasswordBox>
-            <Button Name="btnSubmitRegister" Content="Submit" Background="Sienna" Margin="300 10" Foreground="Cornsilk" FontSize="15"></Button>
+            <Button Name="btnSubmitRegister" Content="Submit" Background="Sienna" Margin="300 10" Foreground="Cornsilk" FontSize="15" Click="btnSubmitRegister_Click"></Button>
             <Label Content="Already have an account? Log in by clicking button below" Foreground="Cornsilk" FontSize="10" HorizontalAlignment="Center" Margin="0,60,0,38"></Label>
             <Button Name="btnGoLogin" Content="Login" Background="DimGray" Foreground="Cornsilk" FontSize="10" Margin="0,-50,0,0" Height="17" Width="62" Click="OpenLoginScreen"></Button>
         </StackPanel>

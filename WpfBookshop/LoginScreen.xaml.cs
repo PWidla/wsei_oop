@@ -30,5 +30,23 @@ namespace WpfBookshop
             this.Visibility = Visibility.Hidden;
             registerScreen.Show();
         }
+
+        private void btnSubmitLogin_Click(object sender, RoutedEventArgs e)
+        {
+            using (BOOKSHOPEntities context = new BOOKSHOPEntities())
+            {
+                if (context.users.Any(x => x.username == txtUsername.Text && x.password == txtPassword.Password))
+                {
+                    MessageBox.Show("You logged in successfully.");
+                    MainWindow mainScreen = new MainWindow();
+                    this.Visibility = Visibility.Hidden;
+                    mainScreen.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Incorrect username or password. Try once again.");
+                }
+            }
+        }
     }
 }
